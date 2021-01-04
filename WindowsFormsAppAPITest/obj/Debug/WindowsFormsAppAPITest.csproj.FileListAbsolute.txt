@@ -1,0 +1,10 @@
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\bin\Debug\WindowsFormsAppAPITest.exe.config
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\bin\Debug\WindowsFormsAppAPITest.exe
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\bin\Debug\WindowsFormsAppAPITest.pdb
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.csprojAssemblyReference.cache
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.Form1.resources
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.Properties.Resources.resources
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.csproj.GenerateResource.cache
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.csproj.CoreCompileInputs.cache
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.exe
+C:\Users\mikan\source\repos\WindowsFormsAppAPITest\obj\Debug\WindowsFormsAppAPITest.pdb
